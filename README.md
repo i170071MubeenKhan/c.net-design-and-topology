@@ -12,8 +12,9 @@ The objective of this project was to test understanding of different protocols b
 
 **Protocols Config. Commands:** [pdf](assets/protocols_config_commands.pdf)
 
-**IPs Distribution for All Networks: ** [pdf](assets/VLSM CIDR Subnet Calculator.pdf)
+**IPs Distribution for All Networks:** [pdf](assets/VLSM CIDR Subnet Calculator.pdf)
 
+<br />
 <p align="center" style="font-size:12px;color:dimgray;"><strong>Provided IPs and Subnet Masks (PNG)</strong>
 </p>
 <p align="center">
@@ -21,7 +22,6 @@ The objective of this project was to test understanding of different protocols b
 </p>
 
 <br />
-
 <p align="center" style="font-size:12px;color:dimgray;"><strong>Network Design (PNG)</strong>
 </p>
 <p align="center">
